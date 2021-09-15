@@ -1,7 +1,7 @@
 <template>
     <div id="right-bar">
-        <a href="#" target="_blank"><i class="fab fa-product-hunt"></i>Plurk</a>
-        <a href="#" target="_blank"><i class="fab fa-twitter"></i>Twitter</a>
+        <a href="https://www.plurk.com/lsps950178" target="_blank"><i class="fab fa-product-hunt"></i>Plurk</a>
+        <a href="https://twitter.com/iji_1228" target="_blank"><i class="fab fa-twitter"></i>Twitter</a>
     </div>
 </template>
 
