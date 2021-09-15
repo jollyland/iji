@@ -48,7 +48,6 @@
             font-weight: 900;
             color: white;
             -webkit-text-stroke: .1px #2c3e50;
-            // transform:translate(-60px, -20px);
 
             &--tip{
                 font-size: 1.6rem;
@@ -95,9 +94,6 @@
                 &:not(:last-child){
                 margin-bottom: .4rem;
                 }
-            }
-            svg{
-                // margin-right:.5rem;
             }
         }
     }

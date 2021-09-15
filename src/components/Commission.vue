@@ -25,7 +25,6 @@
 
         </div>
     </div>
-    <!-- https://a3803896.medium.com/%E7%AD%86%E8%A8%98-%E5%A6%82%E4%BD%95%E5%9C%A8-vue-cli-%E8%BC%89%E5%85%A5-vue-awesome-swiper-%E5%85%83%E4%BB%B6-4d33bfebe7bc -->
 </template>
 <script>
 import CommissionCarousel from './ComSwiper.vue';
@@ -44,7 +43,6 @@ export default {
     }
     .commission{
         &__sample{
-        // background-color: salmon;
             grid-column: 1/2;
             border-radius: 25px;
             box-shadow: rgba(50, 50, 105, 0.15) 0px 2px 5px 0px, rgba(0, 0, 0, 0.05) 0px 1px 1px 0px;
