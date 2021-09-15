@@ -14,20 +14,25 @@
     grid-row: 1/-1;
     display: flex;
     flex-direction: column;
-    transition: all .4s;
     a {
         font-weight: 600;
         color: #2c3e50;
+        position: relative;
+        overflow: hidden;
+        transition: transform ease-out .8s;
 
         &.router-link-exact-active {
         color: #FFB4A2;
         }
+
         &:hover {
             color: #FFB4A2;
+
         }
         &:not(:last-child){
             margin-bottom: 1rem;
         }
+
     }
 }
 </style>

@@ -1,6 +1,5 @@
 <template>
     <div id="profile">
-        <!-- <img src="@/assets/3.png" alt="iji_pic" class="profile__photo"> -->
         <div class="profile__photo"></div>
         <div class="profile__intro">
             <h1 class="profile__name">一給<span class="profile__name--tip">ㄐㄧˇ／井地</span></h1>

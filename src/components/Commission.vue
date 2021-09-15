@@ -14,7 +14,7 @@
             <div class="flow_info">完稿時間一個月內，需排單不收急件</div>
             <h4 class="flow-heading">須知</h4>
             <ul class="flow_tips">
-                <li class="flow_tips--item">圖上所示皆為單人價格</li>
+                <li class="flow_tips--item">圖上所示價格僅供參考，以噗浪公告價格為主</li>
                 <li class="flow_tips--item">不接獸化、人外、異形</li>
                 <li class="flow_tips--item">畫風以近期作品為主，可拿兩個月內的圖來指定上色風格等</li>
                 <li class="flow_tips--item">背景默認簡單色塊，如需複雜背景可再討論加購</li>

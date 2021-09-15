@@ -36,21 +36,21 @@ export default defineComponent({
         title: '寶可夢印象服裝',
         price: 2000,
         description: '多加寶可夢NT200/隻，請避免身材超過2公尺之寶可夢，服裝可做合理範圍內非商業利用',
-        picUrl: require('@/assets/image/pokemon_cloth.png'),
+        picUrl: require('@/assets/image/pokemon_cloth.jpg'),
       },{
         title: '彩色半身',
         price: 1000,
         description: '簡單色塊背景，背景須加價',
-        picUrl: require('@/assets/image/single_half.png'),
+        picUrl: require('@/assets/image/single_half.jpg'),
       }, {
         title: '簡單Q版',
         price: 200,
         description: '另有R18項目，委託範例及價格請至噗浪觀看',
-        picUrl: require('@/assets/image/simple_chibby.png'),
+        picUrl: require('@/assets/image/simple_chibby.jpg'),
       }, {
         title: '精緻Q版',
         price: 500,
-        picUrl: require('@/assets/image/fansy_chibby.png'),
+        picUrl: require('@/assets/image/fansy_chibby.jpg'),
       }, 
 
       ],
