@@ -9,10 +9,16 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "install": "^0.13.0",
+    "mitt": "^3.0.0",
     "vue": "^3.0.0",
-    "vue-router": "^4.0.0-0"
+    "vue-masonry": "^0.13.0",
+    "vue-router": "^4.0.0-0",
+    "vue3-carousel": "^0.1.27"
   },
   "devDependencies": {
+    "@babel/eslint-parser": "^7.15.4",
+    "@fortawesome/fontawesome-free": "^5.15.4",
     "@vue/cli-plugin-babel": "~4.5.0",
     "@vue/cli-plugin-eslint": "~4.5.0",
     "@vue/cli-plugin-router": "~4.5.0",

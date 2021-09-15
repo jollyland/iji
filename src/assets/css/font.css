@@ -1,0 +1,10 @@
+@font-face {
+    font-family: FakePearl-Regular;
+    src: url(https://cdn.jsdelivr.net/gh/max32002/FakePearl@1.1/webfont/FakePearl-Regular.woff2) format("woff2")
+    , url(https://cdn.jsdelivr.net/gh/max32002/FakePearl@1.1/webfont/FakePearl-Regular.woff) format("woff");
+}
+
+
+body,div,span,header,footer,nav,section,aside,article,ul,dl,dt,dd,li,a,p,h1,h2,h3,h4,h5,h6,i,b,em,textarea,button,input,select,figure,figcaption {
+    font-family: FakePearl-Regular, Avenir, Helvetica, Arial, sans-serif;
+}

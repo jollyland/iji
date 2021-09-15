@@ -1,18 +1,31 @@
 <template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <LeftBar/>
+  <div class="content">
+      <router-view></router-view>
   </div>
+  <RightBar/>
 </template>
 
 <script>
-// @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue';
+import RightBar from '@/components/Rightbar.vue';
+import LeftBar from '@/components/Leftbar.vue';
 
 export default {
-  name: 'Home',
+  name: 'home',
   components: {
-    HelloWorld,
+    RightBar, LeftBar,
   },
 };
 </script>
+
+<style lang="scss">
+
+.content{
+  grid-column-start: main-start;
+  grid-column-end: main-end;
+  padding: 3rem 0;
+  display: flex;
+  
+}
+
+</style>
