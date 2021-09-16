@@ -5,7 +5,7 @@
         </div>
         <div class="commission__flow">
             <h4 class="flow-heading">委託開放</h4>
-            <div class="flow_info">目前未開放，將不定期於噗浪公告名額</div>
+            <div class="flow_info">預計10月將於噗浪公告名額及項目</div>
             <h4 class="flow-heading">流程</h4>
             <div class="flow_info">私訊討論>草稿>匯款>完稿（以email交付png檔）</div>
             <h4 class="flow-heading">付款</h4>
